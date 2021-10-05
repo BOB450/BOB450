@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="BOB450" />
+</h1>
 
-<!--
-**BOB450/BOB450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+Im BOB450
 
-Here are some ideas to get you started:
+- 🧭 Website: (thegamearchive.net)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- ⚙️ C#,C++,C,Python,javascript
+- 👁️ CSS,HTML,PHP
+
+## Contact
+- [@BOB450](https://steamcommunity.com/id/BOB450/) on Steam
+- [🐲𝔹𝕆𝔹𝟜𝟝𝟘🐲#1415](./) on Discord
