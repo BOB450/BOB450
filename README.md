@@ -8,7 +8,7 @@ Im BOB450
 - 🧭 Website: (thegamearchive.net)
 
 ## Skills
-- ⚙️ C#,C++,C,Python,javascript
+- ⚙️ C#,C++,C,Python,javascript,java
 - 👁️ CSS,HTML,PHP
 
 ## Contact
