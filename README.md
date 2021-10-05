@@ -11,6 +11,9 @@ Im BOB450
 - ⚙️ C#,C++,C,Python,javascript,java
 - 👁️ CSS,HTML,PHP
 
+## Technology's/Programs
+-   QT,Unity,photoshop,gimp,blender,GTK
+
 ## Contact
 - [The Game Archive](https://thegamearchive.net/) (Website to put games)
 - [Itch.io](https://bob4500.itch.io/) on Itch.io
