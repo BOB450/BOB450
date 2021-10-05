@@ -13,4 +13,4 @@ Im BOB450
 
 ## Contact
 - [@BOB450](https://steamcommunity.com/id/BOB450/) on Steam
-- [🐲𝔹𝕆𝔹𝟜𝟝𝟘🐲#1415](./) on Discord
+- [🐲𝔹𝕆𝔹𝟜𝟝𝟘🐲#1415](https://discordapp.com/users/277920295833305088) on Discord
