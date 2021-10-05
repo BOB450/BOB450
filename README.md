@@ -5,7 +5,7 @@
 ## Hey! 👋
 Im BOB450
 
-- 🧭 Website: (thegamearchive.net)
+- 🧭[The Game Archive](https://thegamearchive.net/) (Website to put games)
 
 ## Skills
 - ⚙️ C#,C++,C,Python,javascript,java
@@ -14,8 +14,7 @@ Im BOB450
 ## Technology's/Programs
 -   QT,Unity,photoshop,gimp,blender,GTK
 
-## Contact
-- [The Game Archive](https://thegamearchive.net/) (Website to put games)
+## Contact/Accounts
 - [Itch.io](https://bob4500.itch.io/) on Itch.io
 - [@BOB450](https://steamcommunity.com/id/BOB450/) on Steam
 - [🐲𝔹𝕆𝔹𝟜𝟝𝟘🐲#1415](https://discordapp.com/users/277920295833305088) on Discord
