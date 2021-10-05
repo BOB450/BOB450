@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/ezgif-2-97e7f25f98ea.mp4" alt="BOB450" />
+  <img src="/ezgif-2-55bfe4cca5b0.gif" alt="BOB450" />
 </h1>
 
 ## Hey! 👋
