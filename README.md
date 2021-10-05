@@ -12,5 +12,6 @@ Im BOB450
 - 👁️ CSS,HTML,PHP
 
 ## Contact
+- [Itch.io](https://steamcommunity.com/id/BOB450/) on Itch.io
 - [@BOB450](https://steamcommunity.com/id/BOB450/) on Steam
 - [🐲𝔹𝕆𝔹𝟜𝟝𝟘🐲#1415](https://discordapp.com/users/277920295833305088) on Discord
