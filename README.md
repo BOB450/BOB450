@@ -12,7 +12,7 @@ Im BOB450
 - 👁️ CSS,HTML,PHP
 
 ## Contact
-- [The Game Archive](https://thegamearchive.net/) The Game Archive
+- [The Game Archive](https://thegamearchive.net/) (Website to put games)
 - [Itch.io](https://bob4500.itch.io/) on Itch.io
 - [@BOB450](https://steamcommunity.com/id/BOB450/) on Steam
 - [🐲𝔹𝕆𝔹𝟜𝟝𝟘🐲#1415](https://discordapp.com/users/277920295833305088) on Discord
