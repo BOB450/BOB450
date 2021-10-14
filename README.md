@@ -9,7 +9,7 @@ Im BOB450
 - 🧭[The Game Archive](https://thegamearchive.net/) (Website to put games)
 
 ## Skills
-- ⚙️ C#,C++,C,Python,javascript,java
+- ⚙️ C#,C++,C,Python,javascript,java (Started learing rust.)
 - 👁️ CSS,HTML,PHP
 
 ## Technology's/Programs
