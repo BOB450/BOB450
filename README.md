@@ -15,7 +15,7 @@ Im BOB450
 
 ## Technology's/Programs
 
-- QT,Unity,photoshop,gimp,blender,GTK
+- QT,Unity,Photoshop,Gimp,Blender,GTK
 
 ## Contact/Accounts
 
