@@ -20,7 +20,7 @@ Im BOB450
 
 ## Contact/Accounts
 
-### Contact me at BOB4500@protonmail.com or at My Discord.
+#### Contact me at BOB4500@protonmail.com or at My Discord.
 
 - [Itch.io](https://bob4500.itch.io/) on Itch.io
 - [@BOB450](https://steamcommunity.com/id/BOB450/) on Steam
