@@ -26,7 +26,7 @@ Im BOB450
 - [@BOB450](https://steamcommunity.com/id/BOB450/) on Steam
 - [🐲𝔹𝕆𝔹𝟜𝟝𝟘🐲#1415](https://discordapp.com/users/277920295833305088) on Discord
 
-[![BOB450s GitHub stats](https://github-readme-stats.vercel.app/api?username=BOB450&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+![BOB450s GitHub stats](https://github-readme-stats.vercel.app/api?username=BOB450&show_icons=true&theme=radical)
 
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
