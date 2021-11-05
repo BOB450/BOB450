@@ -26,6 +26,6 @@ Im BOB450
 - [@BOB450](https://steamcommunity.com/id/BOB450/) on Steam
 - [🐲𝔹𝕆𝔹𝟜𝟝𝟘🐲#1415](https://discordapp.com/users/277920295833305088) on Discord
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BOB450=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
