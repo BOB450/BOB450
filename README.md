@@ -3,9 +3,6 @@
   <img src="/ezgif-2-55bfe4cca5b0.gif" alt="BOB450" />
 </h1>
 
-<p align="center">
-    // Your content
-
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -30,8 +27,10 @@ Im BOB450
 - [@BOB450](https://steamcommunity.com/id/BOB450/) on Steam
 - [🐲𝔹𝕆𝔹𝟜𝟝𝟘🐲#1415](https://discordapp.com/users/277920295833305088) on Discord
 
+<p align="center">
+
 ![BOB450s GitHub stats](https://github-readme-stats.vercel.app/api?username=BOB450&count_private=true&hide=contribs,prs,issues&show_icons=true&theme=radical)
+</p>
 
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-</p>
