@@ -15,9 +15,13 @@ Im BOB450
 - ⚙️ C#,C++,C,Python,javascript,java (Started learning rust.)
 - 👁️ CSS,HTML,PHP
 
-## Technology's/Programs
+## Technology's/Programs/APIs
 
-- QT,Unity,Photoshop,Gimp,Blender,GTK
+- QT,Unity,Photoshop,Gimp,Blender,GTK,apache2,discord API, philips hue api
+
+## Linux
+
+I have extensive linux foundation and have set up many web servers.  Currently I daily drive manjaro
 
 ## Contact/Accounts
 
