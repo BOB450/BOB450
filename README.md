@@ -21,7 +21,7 @@ Im BOB450
 
 ## Linux
 
-I have extensive linux foundation and have set up many web servers.  Currently I daily drive manjaro
+I have extensive linux foundation and have set up many web servers.I have had experience building linux games and applications .Currently I daily drive manjaro.
 
 ## Contact/Accounts
 
