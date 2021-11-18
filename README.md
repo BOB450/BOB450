@@ -17,7 +17,7 @@ Im BOB450
 
 ## Technology's/Programs/APIs
 
-- QT,Unity,Photoshop,Gimp,Blender,GTK,apache2,discord API, philips hue api
+- QT,Unity,Photoshop,Gimp,Blender,GTK,apache2,discord API,Cmake
 
 ## Linux
 
