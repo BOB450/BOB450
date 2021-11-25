@@ -39,7 +39,7 @@ I have extensive linux foundation and have set up many web servers.I have had ex
 
 ## My pgp(gpg) keys
 
-<details open>
+<details closed>
 <summary>BOB450 (bwvoskuil@gmail.com)</summary>
 <br>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
