@@ -7,7 +7,7 @@
 
 Im BOB450
 
-- 🧭[The Game Archive](https://thegamearchive.net/) (Website to put games)
+- 🧭[The Game Archive](https://thegamearchive.net/) (Website to put games --Curently down will be back up soon)
 
 ## Skills
 
@@ -20,7 +20,7 @@ Im BOB450
 
 ## Linux
 
-I have extensive linux foundation and have set up many web servers.I have had experience building linux games and applications .Currently I daily drive manjaro.
+I have extensive linux foundation and have set up many web servers.I have had experience building linux games and applications .Currently I daily drive manjaro on both of my machines.
 
 ## Contact/Accounts
 
