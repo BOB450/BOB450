@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="My project.png" alt="BOB450" />
+  <img src="My project (2).png" alt="BOB450" />
 </h1>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
