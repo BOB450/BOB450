@@ -5,9 +5,11 @@
 
 <h3 align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-Im BOB450, Open source advocate. Currently working on OpenHue
 </h3>
+
+<h4 align="center">
+Im BOB450, Open source advocate. Currently working on OpenHue
+</h4>
 
 
 ## 🛠️ My favorite tools
