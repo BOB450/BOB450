@@ -55,11 +55,11 @@ Im BOB450, Open source advocate. Currently working on<a herf="https://github.com
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
   
-## 🐧 Linux
+### 🐧 Linux
 
 I have extensive linux foundation and have set up many web servers using nginx and apache.I have had experience building linux games and applications.Currently.
 
-### My setup
+### 🖥️ My setup
 
 OS info:
 - Distro: Manjaro
