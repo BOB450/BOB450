@@ -56,13 +56,13 @@ Im BOB450, Open source advocate. Currently working on OpenHue
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   
-## Linux
+## 🐧 Linux
 
 I have extensive linux foundation and have set up many web servers.I have had experience building linux games and applications .Currently I daily drive manjaro on both of my machines.
 
 ## Contact/Accounts
 
-#### Contact me at BOB4500@protonmail.com or at My Discord
+### Contact me at BOB4500@protonmail.com or at My Discord
 
 - [Itch.io](https://bob4500.itch.io/) on Itch.io
 - [@BOB450](https://steamcommunity.com/id/BOB450/) on Steam
