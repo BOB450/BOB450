@@ -4,12 +4,12 @@
 </h1>
 
 
-<p align="center">
 
+<h3 align="center">
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 Im BOB450, Open source advocate. Currently working on OpenHue
-</p>
+</h3>
 
 - 🧭[The Game Archive](https://thegamearchive.net/) (Website to put games --Curently down will be back up soon)
 
@@ -68,12 +68,13 @@ I have extensive linux foundation and have set up many web servers.I have had ex
 - [@BOB450](https://steamcommunity.com/id/BOB450/) on Steam
 - [🐲𝔹𝕆𝔹𝟜𝟝𝟘🐲#1415](https://discordapp.com/users/277920295833305088) on Discord
 
-  <p align="center">
+<h3 align="center">
   
     ![BOB450s GitHub stats](https://github-readme-stats.vercel.app/api?username=BOB450&count_private=true&hide=contribs,prs,issues&show_icons=true&theme=radical&hide_border=true)
 
     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BOB450&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-    </p>
+
+</h3>
 
 ## My pgp(gpg) keys
 
