@@ -57,7 +57,18 @@ Im BOB450, Open source advocate. Currently working on<a herf="https://github.com
   
 ## 🐧 Linux
 
-I have extensive linux foundation and have set up many web servers using nginx and apache.I have had experience building linux games and applications.Currently I daily drive manjaro on both of my machines.
+I have extensive linux foundation and have set up many web servers using nginx and apache.I have had experience building linux games and applications.Currently.
+
+### My setup
+
+OS info:
+- Distro: Manjaro
+- DE: Gnome Wayland(mutter)
+- Terminal: Alacrity zhs
+
+Hardware:
+- CPU: i9 9900k
+- GPU: 3070
 
 ## Contact/Accounts
 
