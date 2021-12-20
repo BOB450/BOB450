@@ -3,9 +3,13 @@
   <img src="My project (3).png" alt="BOB450" />
 </h1>
 
+
+<p align="center">
+
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 Im BOB450, Open source advocate. Currently working on OpenHue
+</p>
 
 - 🧭[The Game Archive](https://thegamearchive.net/) (Website to put games --Curently down will be back up soon)
 
