@@ -57,7 +57,7 @@ Im BOB450, Open source advocate. Currently working on OpenHue
   
 ## 🐧 Linux
 
-I have extensive linux foundation and have set up many web servers.I have had experience building linux games and applications .Currently I daily drive manjaro on both of my machines.
+I have extensive linux foundation and have set up many web servers using nginx and apache.I have had experience building linux games and applications .Currently I daily drive manjaro on both of my machines.
 
 ## Contact/Accounts
 
