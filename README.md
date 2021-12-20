@@ -11,7 +11,6 @@
 Im BOB450, Open source advocate. Currently working on OpenHue
 </h4>
 
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
