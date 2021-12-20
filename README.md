@@ -9,6 +9,28 @@ Im BOB450, Open source advocate. Currently working on OpenHue
 
 - 🧭[The Game Archive](https://thegamearchive.net/) (Website to put games --Curently down will be back up soon)
 
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming languages
+
+<p>
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plasticfor-the-badge&logo=c-sharp&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+</p>
+
+### 🧰 Frameworks and libraries
+
+<p>
+
+</p>
+
 ## Skills
 
 - ⚙️ C#,C++,C,Python,javascript,java (Started learning rust.)
@@ -30,9 +52,12 @@ I have extensive linux foundation and have set up many web servers.I have had ex
 - [@BOB450](https://steamcommunity.com/id/BOB450/) on Steam
 - [🐲𝔹𝕆𝔹𝟜𝟝𝟘🐲#1415](https://discordapp.com/users/277920295833305088) on Discord
 
+  <p align="center">
+  
     ![BOB450s GitHub stats](https://github-readme-stats.vercel.app/api?username=BOB450&count_private=true&hide=contribs,prs,issues&show_icons=true&theme=radical&hide_border=true)
 
     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BOB450&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+    </p>
 
 ## My pgp(gpg) keys
 
