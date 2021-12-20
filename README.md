@@ -8,7 +8,7 @@
 </h3>
 
 <h4 align="center">
-Im BOB450, Open source advocate. Currently working on OpenHue
+Im BOB450, Open source advocate. Currently working on<a herf="https://github.com/BOB450/OpenHue"> OpenHue.</a>
 </h4>
 
 ## 🛠️ My favorite tools
