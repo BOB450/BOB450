@@ -58,7 +58,7 @@ Im BOB450, Open source advocate. Currently working on<a herf="https://github.com
   
 ### 🐧 Linux
 
-I have extensive linux foundation and have set up many web servers using nginx and apache.I have had experience building linux games and applications.Currently.
+I have extensive linux foundation and have set up many web servers using nginx and apache.I have had experience building linux games and applications.
 
 ### 🖥️ My setup
 
