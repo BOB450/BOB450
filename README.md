@@ -74,7 +74,7 @@ OS info:
 Hardware:
 - CPU: i9 9900k
 - GPU: 3070
-- RAM: 64G 3200
+- RAM: 64G 32000
 
 ## Contact/Accounts
 
