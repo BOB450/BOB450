@@ -66,15 +66,22 @@ I have extensive linux foundation and have set up many web servers using nginx a
 
 ### 🖥️ My setup
 
-OS info:
+
+<details closed>
+<summary>OS info:</summary>
+<br>
 - Distro: Manjaro
 - DE: Gnome Wayland(mutter)
 - Terminal: Alacrity zhs
+</details>
 
-Hardware:
+<details closed>
+<summary>Hardware:</summary>
+<br>
 - CPU: i9 9900k
 - GPU: 3070
 - RAM: 64G 32000
+</details>
 
 ## Contact/Accounts
 
